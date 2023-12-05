@@ -59,6 +59,3 @@ To ensure practical and lifelong skills, ProjectRebuildSchool advocates for subj
 
 ProjectRebuildSchool is an open-source project, and we welcome contributions from educators, students, developers, and anyone passionate about shaping the future of education. Join the conversation, contribute your ideas, or get involved in the development process. Together, let's rebuild the modern education system!
 
----
-
-Feel free to customize the README further based on your preferences and specific details about
